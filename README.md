@@ -14,6 +14,22 @@
 - **文件去重**：基于MD5的文件去重功能，节省存储空间
 - **响应式设计**：适配不同设备的页面布局
 
+## 系统截图
+
+### 系统主页
+![系统主页](https://github.com/AND-Q/Document-management-system/blob/main/images/主页.png)
+
+### 文件管理
+![文件管理](https://github.com/AND-Q/Document-management-system/blob/main/images/文件管理.png)
+
+### 用户管理
+![用户管理](https://github.com/AND-Q/Document-management-system/blob/main/images/用户管理.png)
+
+### 菜单管理
+![菜单管理](https://github.com/AND-Q/Document-management-system/blob/main/images/菜单管理.png)
+
+### 角色管理
+![角色管理](https://github.com/AND-Q/Document-management-system/blob/main/images/角色管理.png)
 ## 技术架构
 
 ### 后端技术栈
@@ -122,22 +138,7 @@ npm run build
 - 管理员账户：admin / 123456
 - 普通用户：user / 123456
 
-## 系统截图
 
-### 系统主页
-![系统主页](https://github.com/AND-Q/Document-management-system/blob/main/images/主页.png)
-
-### 文件管理
-![文件管理](https://github.com/AND-Q/Document-management-system/blob/main/images/文件管理.png)
-
-### 用户管理
-![用户管理](https://github.com/AND-Q/Document-management-system/blob/main/images/用户管理.png)
-
-### 菜单管理
-![菜单管理](https://github.com/AND-Q/Document-management-system/blob/main/images/菜单管理.png)
-
-### 角色管理
-![角色管理](https://github.com/AND-Q/Document-management-system/blob/main/images/角色管理.png)
 
 ## 开发指南
 
@@ -175,7 +176,7 @@ npm run build
 ## 联系方式
 
 如有任何问题或建议，请联系项目维护者。
-
+QQ:1830699248
 ---
 
 感谢您使用文档管理系统！
